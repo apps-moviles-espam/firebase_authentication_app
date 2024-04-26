@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543381473677",
+    "project_id": "catastro-bloques",
+    "storage_bucket": "catastro-bloques.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543381473677:android:6235d9e462b9777fe715c4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_autenticacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFUxKiQ8ESX0ev9Fzja42fk1MR9ikf8Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
